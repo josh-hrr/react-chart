@@ -1,0 +1,60 @@
+ 
+ [
+  {
+    "userId": "1",
+    "email": "test@test.com",
+    "data": [
+      {
+        "label": "Jan",
+        "revenue": 64854,
+        "cost": 32652
+      },
+      {
+        "label": "Feb",
+        "revenue": 54628,
+        "cost": 42393
+      } 
+    ]
+  },
+  {
+    "userId": "2",
+    "email": "test2@test2.com",
+    "data": [
+      {
+        "label": "Jan",
+        "revenue": 70000,
+        "cost": 35000
+      },
+      {
+        "label": "Feb",
+        "revenue": 60000,
+        "cost": 40000
+      },
+      {
+        "label": "Mar",
+        "revenue": 50000,
+        "cost": 30000
+      },
+      {
+        "label": "Apr",
+        "revenue": 40000,
+        "cost": 20000
+      },
+      {
+        "label": "May",
+        "revenue": 30000,
+        "cost": 10000
+      },
+      {
+        "label": "Jun",
+        "revenue": 20000,
+        "cost": 5000
+      },
+      {
+        "label": "Jul",
+        "revenue": 10000,
+        "cost": 1000
+      }
+    ]
+  }
+]

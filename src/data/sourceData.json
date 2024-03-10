@@ -1,0 +1,38 @@
+[
+  {
+    "userId": 1,
+    "email": "test@test.com",
+    "data": [
+      {
+        "label": "Ads",
+        "value": 32
+      },
+      {
+        "label": "Subscriptions",
+        "value": 45
+      },
+      {
+        "label": "Sponsorships",
+        "value": 23
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "email": "test2@test2.com", 
+    "data": [
+      {
+        "label": "Ads",
+        "value": 40
+      },
+      {
+        "label": "Subscriptions",
+        "value": 50
+      },
+      {
+        "label": "Sponsorships",
+        "value": 30
+      }
+    ]
+  }
+]
